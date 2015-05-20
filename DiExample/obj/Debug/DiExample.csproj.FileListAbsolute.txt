@@ -1,0 +1,5 @@
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\DiExample\DiExample\bin\Debug\DiExample.exe.config
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\DiExample\DiExample\bin\Debug\DiExample.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\DiExample\DiExample\bin\Debug\DiExample.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\DiExample\DiExample\obj\Debug\DiExample.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\DiExample\DiExample\obj\Debug\DiExample.pdb
